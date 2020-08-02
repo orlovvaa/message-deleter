@@ -2,7 +2,7 @@
 
 ## Настройка
 
-В файле *start.py* вставить токен в следующую строку [(получить токен можно здесь)](https://oauth.vk.com/authorize?client_id=2685278&scope=1073737727&response_type=token&revoke=1)
+В файле *start.py* вставить токен в строку 7 ([получить токен можно здесь](https://oauth.vk.com/authorize?client_id=2685278&scope=1073737727&response_type=token&revoke=1))
 
 ```python
 token = 'здесь ваш токен' # токен вк с доступом к сообщениям
